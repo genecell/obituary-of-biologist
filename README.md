@@ -15,3 +15,7 @@
 
 [Nature](https://www.nature.com/articles/d41586-019-01277-5) (Author: Sarah Franklin)
 
+4. **Margarita Salas** (1938–2019)
+>Biochemist whose discoveries led to faster, more-accurate DNA testing.
+
+[Nature](https://www.nature.com/articles/d41586-019-03758-z) (Author: Jesús Avila, Federico Mayor, Lourdes Ruiz-Desviat)
