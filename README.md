@@ -19,3 +19,8 @@
 >Biochemist whose discoveries led to faster, more-accurate DNA testing.
 
 [Nature](https://www.nature.com/articles/d41586-019-03758-z) (Author: Jesús Avila, Federico Mayor, Lourdes Ruiz-Desviat)
+
+5. **Thomas A. Steitz** (1940–2018)
+>Crystallographer who shared the ribosome Nobel.
+
+[Nature](https://www.nature.com/articles/d41586-018-07187-2) (Author: Georgina Ferry)
